@@ -1,11 +1,13 @@
 # Chelsea Dennis
 # CIS 261
+# Movie Guide Part1
+
 
 def display_menu():
-    print("The Movie List program")
+    print("The Halloween Season Movie List program")
     print()
     print("COMMAND MENU")
-    print("list - List all movies")
+    print("list - Show all movies")
     print("add  - Add a movie")
     print("del  - Delete a movie")
     print("exit - Exit program")
